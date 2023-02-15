@@ -1,4 +1,4 @@
-# work_and_study_app
+# sinav_app
 
 A new Flutter project.
 

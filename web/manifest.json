@@ -1,6 +1,6 @@
 {
-    "name": "work_and_study_app",
-    "short_name": "work_and_study_app",
+    "name": "sinav_app",
+    "short_name": "sinav_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
